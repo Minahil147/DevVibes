@@ -32,16 +32,6 @@ DevConnect is an open-source platform designed to connect developers from around
 
 ### Installation
 
-**Forking the Project**
-
-1. Go to the [DevConnect](https://github.com/alvarotorrestx/DevConnect) repository on GitHub.
-2. Click the "Fork" button in the top right corner of the page.
-3. Clone your forked repository to your local machine:
-
-```bash
-git clone https://github.com/yourgithubprofile/DevConnect.git
-cd DevConnect
-```
 
 **Installation for Client**
 
